@@ -1,1 +1,2 @@
-# my-finances-backend
+# MY Finances
+Projeto de um aplicativo para finanças pessoais
