@@ -1,0 +1,14 @@
+{
+  "name": "my-finances-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "git@github.com:My-Finances/my-finances-backend.git",
+  "author": "Raul Aquino <aquinoraul207@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
