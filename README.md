@@ -9,4 +9,4 @@
 ## [Francisco Prata](https://github.com/fcoprata)
 ## [Nityananda Barbosa](https://github.com/NityanandaBarbosa)
 ## [Raul Aquino](https://github.com/RaulAquino207)
-l
+## [Joshuel Nobre](https://github.com/JoshuelNobre)
