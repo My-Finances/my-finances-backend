@@ -1,7 +1,9 @@
+--CREATE A DATABASE IF DONT EXIST
 DROP DATABASE IF EXISTS my_finances;
 CREATE DATABASE my_finances;
 USE my_finances;
 
+--CREATE A TABLE OF USERS
 CREATE TABLE tbUser
 (user_id INT,
 user_name VARCHAR(100) NOT NULL,
