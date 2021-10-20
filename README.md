@@ -11,3 +11,4 @@
 ## [Nityananda Barbosa](https://github.com/NityanandaBarbosa)
 ## [Raul Aquino](https://github.com/RaulAquino207)
 ## [Joshuel Nobre](https://github.com/JoshuelNobre)
+## [Gabriel Amorim] (https://github.com/AmorimGabrielCE)
