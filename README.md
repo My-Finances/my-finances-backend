@@ -6,7 +6,6 @@
 
 
 
-#### Organize your finances !
 ## This project was made by:
 
 ## [Francisco Prata](https://github.com/fcoprata)
