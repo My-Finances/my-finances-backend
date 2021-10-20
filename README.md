@@ -6,9 +6,10 @@
 
 
 
+#### Organize your finances !
 ## This project was made by:
 
 ## [Francisco Prata](https://github.com/fcoprata)
 ## [Nityananda Barbosa](https://github.com/NityanandaBarbosa)
-## [Raul Aquino](https://github.com/RaulAquino207)
-## [Joshuel Nobre](https://github.com/JoshuelNobre)
+## [Raul Aquino de Araújo](https://github.com/RaulAquino207)
+## [Joshuel Nobre Pereira Machado](https://github.com/JoshuelNobre)
